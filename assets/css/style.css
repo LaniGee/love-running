@@ -22,7 +22,12 @@ body {
 header {
     background-color: lightcoral;
 }
-/* Main */
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+/* Main Content */
 main {
     background-color: lightblue;
     /* Make main element take up any surplus space to push footer down */
