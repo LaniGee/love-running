@@ -346,7 +346,7 @@ main {
     }
 
     .text-input:hover {
-        order-color: #f16c6b;
+        border-color: #f16c6b;
     }
 
     .join-button:hover {
